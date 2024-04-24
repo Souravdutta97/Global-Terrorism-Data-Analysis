@@ -18,3 +18,7 @@ Terrorism is a complex global issue that affects countries and communities world
 6. Multivarient Analysis.
 7. Detect Outlier.
 8. Data Visualization.
+
+
+# Conclusion
+## The global community is grappling with a concerning surge in terrorism attacks, particularly evident in the Middle East and North Africa, as well as South America. These regions have witnessed a significant increase in terrorist activities, posing a serious threat to regional stability and security.
