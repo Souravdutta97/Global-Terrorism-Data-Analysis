@@ -6,7 +6,7 @@ Terrorism is a complex global issue that affects countries and communities world
   Through this project, we hope to gain a deeper understanding of the dynamics of global terrorism and contribute to efforts aimed at addressing this critical issue.
 
   <p align="center">
-  <img width="600" height="300" src="pr.png">
+  <img width="600" height="300" src="maxresdefault.jpg">
 </p>
 
 # This Project Includes
