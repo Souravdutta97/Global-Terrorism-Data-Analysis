@@ -21,4 +21,4 @@ Terrorism is a complex global issue that affects countries and communities world
 
 
 # Conclusion
-## The global community is grappling with a concerning surge in terrorism attacks, particularly evident in the Middle East and North Africa, as well as South America. These regions have witnessed a significant increase in terrorist activities, posing a serious threat to regional stability and security.
+# The global community is grappling with a concerning surge in terrorism attacks, particularly evident in the Middle East and North Africa, as well as South America. These regions have witnessed a significant increase in terrorist activities, posing a serious threat to regional stability and security.
