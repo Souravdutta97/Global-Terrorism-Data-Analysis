@@ -22,3 +22,12 @@ Terrorism is a complex global issue that affects countries and communities world
 
 # Conclusion
 * The global community is grappling with a concerning surge in terrorism attacks, particularly evident in the Middle East and North Africa, as well as South America. These regions have witnessed a significant increase in terrorist activities, posing a serious threat to regional stability and security.
+* Of notable concern is the high success rate of these attacks, with a staggering 89% of incidents resulting in successful outcomes. This underscores the resilience and effectiveness of terrorist groups and individuals in achieving their objectives, exacerbating the impact on affected communities.
+* Moreover, the prevalent use of bombings and explosions as primary tactics in these attacks has resulted in substantial casualties and widespread destruction. The devastating consequences highlight the urgent need for comprehensive strategies to counteract the proliferation and use of explosives, as well as to address the root causes of terrorism.
+* In light of these challenges, concerted efforts aimed at enhancing intelligence-sharing, strengthening security measures, and fostering international cooperation are imperative to effectively combat the threat of terrorism and promote global peace and stability.
+
+## Authors
+
+- [@Souravdutta97](https://github.com/Souravdutta97)
+
+Sourav Dutta - Data Analyst
